@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sudiparyal185@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Nerd about JS
--->
+
