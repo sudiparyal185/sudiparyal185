@@ -2,7 +2,7 @@
 #### I am a Full Stack Software Engineer
 Passionate Software Engineer working full time. As a side project, I create tutorials on Youtube helping beginners on their JavaScript Journey.  
 
-Skills:  REACT / JS / HTML / CSS/ NodeJs/ Express JS
+TECH STACK:  REACT / JS / HTML / CSS/ NodeJs/ Express JS
 
 - 🔭 I’m currently working on tutoring Javascript on Youtube 
 - 💬 Ask me about Javascript 
